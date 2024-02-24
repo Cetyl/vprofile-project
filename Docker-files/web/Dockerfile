@@ -1,7 +1,7 @@
 FROM nginx
 
-LABEL "Author"="Shady Osama"
-LABEL "Projec"="Vprofile"
+LABEL "Author"="Rohan"
+LABEL "Project"="Vprofile"
 
 RUN rm -rf /etc/nginx/conf.d/default.conf
 
